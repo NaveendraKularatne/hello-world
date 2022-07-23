@@ -1,6 +1,6 @@
 package inheritance_test;
 
-class Programmer extends Employee{
+class Programmer extends Employee{ //subclass
     int bonus = 10000;
 
     public static void main(String[] args) {
