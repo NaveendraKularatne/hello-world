@@ -31,6 +31,5 @@ public class ArraySum {
         // Calculating average
         average = (double)sum / (numbers.length);
         System.out.println("Average is: " + df.format(average));
-
     }
 }
