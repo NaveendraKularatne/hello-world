@@ -10,6 +10,7 @@ float getRateOfInterest(){return 7.3f;}
 class AXIS extends Bank{  
 float getRateOfInterest(){return 9.7f;}  
 }  
+
 class TestPolymorphism{  
 public static void main(String args[]){  
 Bank b;  
